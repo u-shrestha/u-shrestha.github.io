@@ -1,3 +1,3 @@
 Usha
 ====
-![Image](https://raw.githubusercontent.com/u-shrestha/u-shrestha.github.io/master/my%20image.jpg)
+![Image](https://github.com/u-shrestha/u-shrestha.github.io/blob/master/profile.jpg?raw=true)
