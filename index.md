@@ -1,9 +1,16 @@
 Usha
 ====
 ![Image](https://github.com/u-shrestha/u-shrestha.github.io/blob/master/profile.jpg?raw=true)
+
+
+I am Usha Shrestha 
+
+
+
 "My Skills"
-1.python
-2.HTML
-3.CSS
-4.C
-5.C++
+
+1. python
+2. HTML
+3. CSS
+4. C
+5. C++
